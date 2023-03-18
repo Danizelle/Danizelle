@@ -38,7 +38,13 @@ These are some soft skills that I have:
 
 ## 🌙 Contact
 
- <a href="mailto:daniellers2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-CC6699?style=flat-square&logo=Gmail&logoColor=white"></a>
+ <a href="mailto:daniellers2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-CC6699?style=flat-square&logo=Gmail&logoColor=white">
+</a><img src="https://img.shields.io/badge/-Linkedin-CC6699?style=flat-square&logo=Linkedin&logoColor=white">
+ 
+ 
+
  
  <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Danizelle&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+
+  So Long, and thanks for all the fish!
