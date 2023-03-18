@@ -39,7 +39,7 @@ These are some soft skills that I have:
 ## 🌙 Contact
 
  <a href="mailto:daniellers2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-CC6699?style=flat-square&logo=Gmail&logoColor=white">
-</a><img src="https://img.shields.io/badge/-Linkedin-CC6699?style=flat-square&logo=Linkedin&logoColor=white">
+</a> <a href="https://www.linkedin.com/in/danielle-rodrigues-978618233/"> <img src="https://img.shields.io/badge/-Linkedin-CC6699?style=flat-square&logo=Linkedin&logoColor=white"> </a>
  
  
 
