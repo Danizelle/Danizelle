@@ -3,7 +3,7 @@
 
 - 🇧🇷/🇺🇸
 
-- Studying the 4th period of Software Engineering at UnB.
+- Studying the 4th semester of Software Engineering at UnB.
   
 - Co-founder of @hello-SoftLab an innovative software lab startup.
   
