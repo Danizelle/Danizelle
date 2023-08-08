@@ -19,6 +19,8 @@ These are some of the technologies and tools that I work with:
 
 ![ReactNative](https://img.shields.io/badge/-React%20Native-CC6699?style=flat-square&logo=React&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-Java%20Script-CC6699?style=flat-square&logo=JavaScript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-CC6699?style=flat-square&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/-C-CC6699?style=flat-square&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-CC6699?style=flat-square&logo=Python&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-CC6699?style=flat-square&logo=CSS3&logoColor=white)
 ![HTML 5](https://img.shields.io/badge/-HTML%205-CC6699?style=flat-square&logo=HTML5&logoColor=white)
