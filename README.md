@@ -13,7 +13,7 @@
 </p>
 
 
-## ⚡ Technologies
+⚡ Technologies
 
 These are some of the technologies and tools that I work with:
 
@@ -28,7 +28,7 @@ These are some of the technologies and tools that I work with:
 ![Illustrator](https://img.shields.io/badge/-Illustrator-CC6699?style=flat-square&logo=AdobeIllustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-CC6699?style=flat-square&logo=Figma&logoColor=white)
 
-## 👥 Soft Skills
+👥 Soft Skills
 
 These are some soft skills that I have:
 
@@ -38,7 +38,7 @@ These are some soft skills that I have:
 
 - Organizational
 
-## 🌙 Contact
+🌙 Contact
 
  <a href="mailto:daniellers2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-CC6699?style=flat-square&logo=Gmail&logoColor=white">
 </a> <a href="https://www.linkedin.com/in/danielle-rodrigues-978618233/"> <img src="https://img.shields.io/badge/-Linkedin-CC6699?style=flat-square&logo=Linkedin&logoColor=white"> </a>
